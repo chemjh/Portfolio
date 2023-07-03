@@ -10,7 +10,7 @@ This project contains:
 •	model assessment using accuracy, precision, recall, f1 score, confusion matrices, and ROC visualization
 
 # How to Use:
-Simply download the notebook and the associated data, and copy and paste the appropriate path on your machine for the location of the data into the initial data read, as seen here: 
+Simply download the notebook and the associated data, and copy and paste the appropriate path on your machine for the location of the data into the initial data read. 
  The notebook should then run appropriately.
 
 # Data:
