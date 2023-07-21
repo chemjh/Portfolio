@@ -12,4 +12,4 @@ The data used to train this model was uploaded to Kaggle by Vagif Aliyev, and ca
 The data itself was collected using Etherscan API, and ehterscamdb API.
 
 # License:
-The data I used was made available under the Database: Open Database, Contents: Database Contents license. Please remember to site the appropriate parties if using their work.
+The data I used was made available under the Database: Open Database, Contents: Database Contents license. Please remember to cite the appropriate parties if using their work.
