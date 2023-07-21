@@ -1,7 +1,7 @@
 # Prediction of Firm Bankruptcy
 
 # Project: 
-Economic ruin or great financial success? Obviously we all prefer one over the other, but both will exist in our society as long as we have markets. Wouldn’t it be great to see financial ruin coming? To know of its impending arrival when there was still a chance to avert it, and if not avert it then personally avoid it? My project seeks to make this at least somewhat a reality by predicting bankruptcy among Taiwanese firms based on quantitative economic data.
+Economic ruin or great financial success? Obviously we all prefer one over the other, but both will exist in our society as long as we have markets. Wouldn’t it be great to see financial ruin coming? To know of its impending arrival when there was still a chance to avert it? My project seeks to make this at least somewhat a reality by predicting bankruptcy among Taiwanese firms based on quantitative economic data.
 This project contains: 
 •	data visualization and exploration via histograms and boxplots
 •	feature selection using RFECV
