@@ -15,5 +15,6 @@ Simply download the notebook and the associated data, and copy and paste the app
 
 # Data:
 The data used for this project was submitted to Kaggle by fedesoriano, and was collected by him from the UCI Machine Learning Repository, located here: https://archive.ics.uci.edu/ml/datasets/Taiwanese+Bankruptcy+Prediction. The Kaggle page can be found here: https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction.
+
 # License:
 The kaggle dataset itself is under a Data files © Original Authors license, whereas the Taiwanese bankruptcy prediction data is made available under a Creative Commons Attribution 4.0 International (CC BY 4.0) license. Please cite all appropriate persons if using their work.
