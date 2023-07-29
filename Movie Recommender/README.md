@@ -1,5 +1,17 @@
+# Movie Recommender
 
+# Project: 
+Wouldn't it be great to know which movie you should watch next? Using data from the MovieLens dataset, I've created a movie recommender model that works off of correlations between movies and their reviews.
+By inputting a movie into the model a collection of movies found to be correlated will be returned in a pleasing format.
 
+# How to Use:
+Simply run the notebook with its associated data in the working directory. 
+
+# Data:
+The data used for this project was submitted to Kaggle by fedesoriano, and was collected by him from the UCI Machine Learning Repository, located here: https://archive.ics.uci.edu/ml/datasets/Taiwanese+Bankruptcy+Prediction. The Kaggle page can be found here: https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction.
+
+# License:
+The license for the use of this dataset is as follows:
 
 Neither the University of Minnesota nor any of the researchers involved can guarantee the correctness of the data, its suitability for any particular purpose, or the validity of results based on the use of the data set. The data set may be used for any research purposes under the following conditions:
 
@@ -12,3 +24,6 @@ Neither the University of Minnesota nor any of the researchers involved can guar
 In no event shall the University of Minnesota, its affiliates or employees be liable to you for any damages arising out of the use or inability to use these programs (including but not limited to loss of data or data being rendered inaccurate).
 
 If you have any further questions or comments, please email grouplens-info@umn.edu
+
+# References
+F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. https://doi.org/10.1145/2827872
