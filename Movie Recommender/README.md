@@ -1,7 +1,7 @@
 # Movie Recommender
 
 # Project: 
-Wouldn't it be great to know which movie you should watch next? Using data from the MovieLens dataset, I've created a movie recommender model that works off of correlations between movies and their reviews.
+Wouldn't it be great to know which movie you should watch next? Using data from the MovieLens dataset, I've created a movie recommender model that works off of correlations between movies and their review scores.
 By inputting a movie into the model a collection of similar movies will be returned in a pleasing format.
 
 # How to Use:
