@@ -1,6 +1,6 @@
 # OpenWeatherMap API
 # Project:
-A python program that interacts with the OpenWeatherMap API to collect and present weather information for any city in the U.S. The program accepts either ZIP Codes or cities as inputs, 
+A Python program that interacts with the OpenWeatherMap API to collect and present weather information for any city in the U.S. The program accepts either ZIP Codes or cities as inputs, 
 and allows for the temperature data to be presented in Kelvin, Fahrenheit, or Celsius.
 
 # How to Use:
