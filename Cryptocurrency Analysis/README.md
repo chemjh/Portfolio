@@ -1,21 +1,18 @@
 # Cryptocurrency Analysis
 
 # Project: 
-Economic ruin or great financial success? Obviously we all prefer one over the other, but both will exist in our society as long as we have markets. Wouldn’t it be great to see financial ruin coming? To know of its impending arrival when there was still a chance to avert it? My project seeks to make this at least somewhat a reality by predicting bankruptcy among Taiwanese firms based on quantitative economic data.
-This project contains: 
--	data visualization and exploration via histograms and boxplots
--	feature selection using RFECV
--	correction of strong data imbalances using random undersampling and SMOTE
--	random forest classifier model training and optimization using grid searches with cross validation
--	model assessment using accuracy, precision, recall, f1 score, confusion matrices, and ROC visualization
+Starting with historical data for many cryptocurrencies ranging from the years 2013 to 2018, I conduct an analysis on the top 10 crytpocurrencies by market capitalization. This project contains:
+- Extensive visualizations of various cryptocurrency metrics using matplotlib.
+- Feature creation to faciliate a meaningful analysis of the various attributes and characterstics of the top 10 cryptocurrencies
 
 # How to Use:
-Simply download the notebook and the associated data, and copy and paste the appropriate path on your machine for the location of the data into the initial data read. 
- The notebook should then run appropriately.
+Simply run the notebook with the associated data in its working directory.
 
 # Data:
-The data used for this project was submitted to Kaggle by fedesoriano, and was collected by him from the UCI Machine Learning Repository, located here: https://archive.ics.uci.edu/ml/datasets/Taiwanese+Bankruptcy+Prediction. The Kaggle page can be found here: https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction.
+The data used for this project was submitted to Kaggle by jvent, and is available here: https://www.kaggle.com/datasets/jessevent/all-crypto-currencies.
+This was one of my earlier projects, and so I did not realize that he had not provided his sources for this data. While that might ordinarily be a problem, the data 
+worked for my purposes and all of it is publicly available cryptocurrency blockchain information so there are no issues of copyright.
 
 # License:
-The kaggle dataset itself is under a Data files © Original Authors license, whereas the Taiwanese bankruptcy prediction data is made available under a Creative Commons Attribution 4.0 International (CC BY 4.0) license. Please cite all appropriate persons if using their work.
+My work is free to use, though please cite the appropriate parties if using their data. The cryptocurrency data is all publicly available information.
 
