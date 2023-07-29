@@ -2,7 +2,7 @@
 
 # Project: 
 Wouldn't it be great to know which movie you should watch next? Using data from the MovieLens dataset, I've created a movie recommender model that works off of correlations between movies and their reviews.
-By inputting a movie into the model a collection of similar movies found to be correlated will be returned in a pleasing format.
+By inputting a movie into the model a collection of similar movies will be returned in a pleasing format.
 
 # How to Use:
 Simply run the notebook with its associated data in the working directory. 
