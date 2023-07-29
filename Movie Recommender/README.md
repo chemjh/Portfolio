@@ -27,3 +27,5 @@ If you have any further questions or comments, please email grouplens-info@umn.e
 
 # References
 F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. https://doi.org/10.1145/2827872
+
+I used an online guide to creating recommenders. This particular guide was written by Amal Nair for the article "How To Build Your First Recommender System Using Python & MovieLens Dataset" for the website Analytics India Magazine (AIM). The article can be found at https://analyticsindiamag.com/how-to-build-your-first-recommender-system-using-python-movielens-dataset/, and was referenced by me on 5/20/2023.
