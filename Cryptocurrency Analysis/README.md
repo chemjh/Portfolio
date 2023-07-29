@@ -1,7 +1,7 @@
 # Cryptocurrency Analysis
 
 # Project: 
-Using historical data for many cryptocurrencies ranging from the years 2013 to 2018, I conduct an analysis on the top 10 crytpocurrencies by market capitalization. This project contains:
+Using historical data for many cryptocurrencies ranging from the years 2013 to 2018, I conduct an in-depth analysis on the top 10 crytpocurrencies by market capitalization. This project contains:
 - Extensive visualizations of various cryptocurrency metrics using matplotlib.
 - Feature creation to faciliate a meaningful analysis of the various attributes and characterstics of the top 10 cryptocurrencies
 
