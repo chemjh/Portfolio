@@ -8,7 +8,7 @@ By inputting a movie into the model a collection of similar movies will be retur
 Simply run the notebook with its associated data in the working directory. 
 
 # Data:
-The data used for this project was submitted to Kaggle by fedesoriano, and was collected by him from the UCI Machine Learning Repository, located here: https://archive.ics.uci.edu/ml/datasets/Taiwanese+Bankruptcy+Prediction. The Kaggle page can be found here: https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction.
+The data used for this project was collected from the GroupLens Research site, under their MovieLens tab. The data was collected by them from the website movielens.org. I specifically used the ml-latest-small dataset, and it can be located here: https://grouplens.org/datasets/movielens/.
 
 # License:
 The license for the use of this dataset is as follows:
