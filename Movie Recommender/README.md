@@ -8,7 +8,7 @@ By inputting a movie into the model a collection of similar movies will be retur
 Simply run the notebook with its associated data in the working directory. 
 
 # Data:
-The data used for this project was collected from the GroupLens Research site, under their MovieLens tab. The data was collected by them from the website movielens.org. I specifically used the ml-latest-small dataset, and it can be located here: https://grouplens.org/datasets/movielens/.
+The data used for this project was collected from the GroupLens Research site, under their MovieLens tab. The data was collected by them from the website https://movielens.org. I specifically used the ml-latest-small dataset, and it can be located here: https://grouplens.org/datasets/movielens/.
 
 # License:
 The license for the use of this dataset is as follows:
