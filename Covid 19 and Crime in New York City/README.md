@@ -1,7 +1,7 @@
 # Covid-19 and Crime in New York City
 
 # Project: 
-Did the Covid-19 pandemic and the associated lockdowns have any effect on, or relationship with, crime in New York City? Examining both Covid-19 cases and deaths, as well as various categories of crimes in New York city broadly and by borough, I explore the data for emergent relatinships: 
+Did the Covid-19 pandemic and the associated lockdowns have any effect on, or relationship with, crime in New York City? Examining both Covid-19 cases and deaths, as well as various categories of crimes in New York city broadly and by borough, I explore the data for emergent relatinships using: 
 -	data visualization and exploration via barcharts, line plots, and combinations thereof
 -	feature correlation assessment using Kendall's Tau
 -	creation of time-series model via ARIMA (Auto-Regressive Integrated Moving Average)
