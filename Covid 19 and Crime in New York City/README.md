@@ -6,6 +6,7 @@ Did the Covid-19 pandemic and the associated lockdowns have any effect on, or re
 -	feature correlation assessment using Kendall's Tau
 -	creation of time-series model via ARIMA (Auto-Regressive Integrated Moving Average)
 
+The .Rmd file is present should you wish to run the project yourself, but if you would like to see the results of the project, including visualizations, I've included a pdf of the project that shows all the cell outputs.
 
 # How to Use:
 Simply download the file and the associated data, place the data in the working directory, and run the file.
