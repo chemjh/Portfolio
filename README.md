@@ -5,7 +5,7 @@ I have a Master of Science degree in Data Science from Bellevue University, and 
 - an analysis of the relationship between COVID-19 and crime rates in New York City
 - natural language processing of large collections of Amazon book reviews
 - quantitative analysis of cryptocurrencies and their relationship with fiat currencies, as well as their rates of change in value
-- prediction of firm bankruptcies based on quantitative economic data pertaining to said firms
+- prediction of firm bankruptcies based on quantitative economic data
 - and more!
 
 Please take a moment to look around and see what I can do.
