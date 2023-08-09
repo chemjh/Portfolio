@@ -1,7 +1,7 @@
 # Analysis of Fiat Currency Data Scraped from the Federal Reserve Website
 
 # Project: 
-Examining data I scrape from the Federal Reserve website, I find and visualize interesting properties of the various national fiat currencies as well as their relationships to each other.
+Examining data I scrape from the Federal Reserve website, I find and visualize interesting properties of the various national fiat currencies as well as their relationships to each other. I rely on Beautiful Soup to parse the website, and then collect the desire I wish to examine and manipulate into dataframe using Pandas.
 
 # How to Use:
 Simply run the file, though expect my analysis may not be entirely accurate any longer. My analysis is entered into the document for the data I examined when I initially made this program, however
