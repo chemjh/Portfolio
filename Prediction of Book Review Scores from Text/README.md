@@ -2,7 +2,7 @@
 
 # Project: 
 Using a massive Amazon book review dataset, I create a random forest classifier that can predict numerical book review scores from textual features 
-such as reviews and review summaries, while also employing numerical review helpfulness scores. The model achieves a significant and notable degree of accuracy.
+such as reviews and review summaries, while also employing numerical review helpfulness scores. The model achieves a significant and notable degree of accuracy. The data distributions are visualized via barcharts, whereas the accuracy of the model is assessed via confusion matrices.
 
 # How to Use:
 Due to the massive size of the file that I used, I am unable to include it here, however the data can be downloaded from this link: https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews. 
